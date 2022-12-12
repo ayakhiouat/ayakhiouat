@@ -6,7 +6,7 @@
 - 📫 How to reach me:
 - email: ayakhiouat@gmail.com
 - I love to learn more about my fields of interest (: 
-
+- on datacamp :)
 <!---
 aya04kh/aya04kh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
