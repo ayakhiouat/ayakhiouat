@@ -2,7 +2,7 @@
 - Also called "curious feline"
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ML and DL
-- 💞️ Active member of SOAI algiers and MicroClub
+- 💞️ Active member of SOAI algiers
 - 📫 How to reach me:
 - email: ayakhiouat@gmail.com
 - I love to learn more about my fields of interest (: 
